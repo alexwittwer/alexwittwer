@@ -2,6 +2,7 @@
 - 🍞 Sourdough afficionado
 - 📰 Newspaper Photojournalist
 - 📈 B.S Mathematics
+- 💻 Odin learner
 
 <!---
 alexwittwer/alexwittwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
