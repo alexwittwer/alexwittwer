@@ -1,7 +1,6 @@
 <h2>About me</h2>
 <div>
   <ul>
-    <li>👋 Be nice. I'm still learning</li>
     <li>📈 B.S Mathematics</li>
     <li>🍞 Sourdough afficionado</li>
     <li>📰 Newspaper Photojournalist</li>
